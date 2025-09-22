@@ -3,7 +3,7 @@ A comprehensive machine learning application that predicts customer churn for te
 
 =======================================================================
 
-Data_Set_Link:=> 
+Data_Set_Link:=> https://www.kaggle.com/datasets/blastchar/telco-customer-churn?select=WA_Fn-UseC_-Telco-Customer-Churn.csv
 
 =======================================================================
 
