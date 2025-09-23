@@ -105,4 +105,11 @@ Monthly charges and service combinations
 
 OUT-PUTS-SCREEN-SHOTS:=>
 
+<img width="1905" height="867" alt="Screenshot 2025-09-23 171112" src="https://github.com/user-attachments/assets/9ff32f80-600b-421d-89d6-579b9ec3eddd" />
+=======================================================================
+<img width="315" height="456" alt="Screenshot 2025-09-23 171120" src="https://github.com/user-attachments/assets/5f1040a1-fc2c-4a18-b27f-dc4967434c0e" />
+=======================================================================
+<img width="1882" height="781" alt="Screenshot 2025-09-23 171134" src="https://github.com/user-attachments/assets/477a90bc-bc9b-434e-a41c-6e7f2a995921" />
+=======================================================================
+<img width="1556" height="795" alt="Screenshot 2025-09-23 171153" src="https://github.com/user-attachments/assets/a362c910-25e2-4124-b38d-8ac842a54af0" />
 
