@@ -101,3 +101,8 @@ Payment method (electronic check users show higher churn)
 Tenure (newer customers more likely to churn)
 Monthly charges and service combinations
 
+=======================================================================
+
+OUT-PUTS-SCREEN-SHOTS:=>
+
+
